@@ -1,0 +1,10 @@
+[gd_resource type="ConfigFile" format=4]
+
+[application]
+config/name="Aqua Quest Adventures"
+run/main_scene="res://scenes/main.tscn"
+
+[display]
+window/size/width=1280
+window/size/height=720
+
